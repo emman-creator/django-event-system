@@ -13,7 +13,8 @@ This project is a Django-based **Event Management System** that allows users to 
 ## Screenshots
 
 ### Home Page
-![screenshot](image.png)
+<img width="655" height="421" alt="image" src="https://github.com/user-attachments/assets/fb7bcd8d-e414-4737-9749-a2dded33d2d4" />
+
 
 ## Project Structure
 
