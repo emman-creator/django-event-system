@@ -1,0 +1,32 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+env
+env/
+venv/
+*.env
+.venv
+
+# Django specific
+db.sqlite3
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Node modules (if using npm for frontend)
+node_modules/
+
+# Byte-compiled and cache directories
+*.py[cod]
